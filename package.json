@@ -2,7 +2,7 @@
   "name": "testvite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://www.landaetadev.com/testvite/",
+  "homepage": "https://landaetadev.github.io/testvite/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
